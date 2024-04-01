@@ -1,3 +1,3 @@
 # Amazon-clone
 <br>
-Amazon clone based on html and css
+Amazon basic home page clone based on html and css.
